@@ -37,6 +37,7 @@ RealESRGAN_x2plus – Subtle 2x upscaling
 RealESRNet_x4plus – Sharper 4x upscaling
 
 GFPGANv1.3 – Face enhancement
+```
 ---
 🎯 Configuration Presets: (for v2)
 ```bash
